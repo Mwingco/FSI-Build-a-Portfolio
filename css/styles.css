@@ -3,4 +3,5 @@ body{
 }
 .Profile-picture-placeholder{
     border: 25px dashed blue;
+    border-radius: 20px;
 }
