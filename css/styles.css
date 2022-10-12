@@ -1,7 +1,7 @@
 body{
     background-color: cadetblue;
 }
-.Profile-picture-placeholder{
+img{
     border: 25px dashed blue;
     border-radius: 20px;
 }
